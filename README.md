@@ -84,6 +84,7 @@ The ESP32 performs the following tasks:
 ## 👨‍💻 Author
 
 **Prashanth C**
+
 Electronics and Communication Engineering
 Bangalore Institute of Technology
 
